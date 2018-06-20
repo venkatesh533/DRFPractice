@@ -1,0 +1,12 @@
+*~
+*#*
+*.pyc
+*.swp
+*.wsgi
+*.komodoproject
+__pycache__
+/gap/settings.py
+/gap/wsgi.py
+/static/**/*
+/ckeditor/**/*
+*.ipynb
