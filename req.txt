@@ -1,0 +1,5 @@
+## Python version : 3.6 ##
+django==1.11
+djangorestframework
+ipython
+django_extensions
